@@ -1,9 +1,4 @@
-# Machine_Learning_Audio_Classification
-
-
 # UrbanSound8K Audio Classification with Machine Learning
-
-![UrbanSound8K](https://urbansounddataset.weebly.com/uploads/2/3/0/23008920/urbansound8k_orig_orig.png)
 
 ## Introduction
 
